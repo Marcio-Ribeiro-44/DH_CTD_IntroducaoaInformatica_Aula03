@@ -1,0 +1,1 @@
+Interfaces de Linhas de Comandos, as quais podem ser personalizadas e são ambiente centralizados em comandos, sem ícones ou outras informações que causem distração.

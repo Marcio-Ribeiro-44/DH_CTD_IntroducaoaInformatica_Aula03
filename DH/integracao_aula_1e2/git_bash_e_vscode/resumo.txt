@@ -1,0 +1,1 @@
+O Git é um sistema de controle de versão gratuito, usado principalmente em desenvolvimento de softwares por desenvolvedores do mundo inteiro

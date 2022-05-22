@@ -1,0 +1,2 @@
+Software ou suporte lógico que compreende todos os componentes lógicos necessários para realizar tarefas específicas.
+Hardaware ou equipamento refere-se às partes físicas e tangíveis de um sistema de computador, seus componentes elétricos, eletrônicos, eletromecânicos e mecânicos
